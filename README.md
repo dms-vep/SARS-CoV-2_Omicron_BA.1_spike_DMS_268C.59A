@@ -3,7 +3,7 @@ Study by Bernadeta Dadonaite and Jesse Bloom.
 
 Measures functional effects of mutations and escape from antibody 268C.59A.
 
-For documentation of the analysis, see [https://dms-vep.github.io/SARS-CoV-2_Omicron_BA.1_spike_DMS/](https://dms-vep.github.io/SARS-CoV-2_Omicron_BA.1_spike_DMS_268C.59A/).
+For documentation of the analysis, see [https://dms-vep.github.io/SARS-CoV-2_Omicron_BA.1_spike_DMS_268C.59A/](https://dms-vep.github.io/SARS-CoV-2_Omicron_BA.1_spike_DMS_268C.59A/).
 
 ## Organization of this repo
 
