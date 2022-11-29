@@ -1,4 +1,5 @@
-# Deep mutational scanning of SARS-CoV-2 Omicron BA.1 spike using a barcoded lentiviral platform
+# Deep mutational scanning of SARS-CoV-2 Omicron BA.1 spike and mapping of escape variants for 268C.59A antibody
+
 Study by Bernadeta Dadonaite and Jesse Bloom.
 
 Measures functional effects of mutations and escape from antibody 268C.59A.
