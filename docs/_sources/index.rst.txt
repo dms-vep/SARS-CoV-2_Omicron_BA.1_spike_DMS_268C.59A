@@ -1,5 +1,5 @@
-Deep mutational scanning of SARS-CoV-2 Omicron BA.1 spike and mapping of escape mutations for 268C.59A antibody
-===============================================================================================================
+Deep mutational scanning of SARS-CoV-2 Omicron BA.1 spike and mapping of escape mutations for C68.59 antibody
+=============================================================================================================
 
 This page documents the data analysis.
 For the actual code, see https://github.com/dms-vep/SARS-CoV-2_Omicron_BA.1_spike_DMS_268C.59A
@@ -56,5 +56,5 @@ Interactive plots of mutation functional effects
 
 Interactive plots of mutation antibody escape
 ---------------------------------------------
-- `268C.59A escape plot <268C.59A_escape_plot.html>`_
+- `C68.59 escape plot <C68.59_escape_plot.html>`_
 

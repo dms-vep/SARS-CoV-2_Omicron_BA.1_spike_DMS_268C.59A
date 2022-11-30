@@ -2,5 +2,5 @@
 Antibody-escape averaged across replicates
 ------------------------------------------
 
-- :doc:`268C.59A <avg_antibody_escape_268C.59A>`
+- :doc:`C68.59 <avg_antibody_escape_C68.59>`
 

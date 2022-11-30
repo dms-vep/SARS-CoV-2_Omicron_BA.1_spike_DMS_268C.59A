@@ -1,8 +1,8 @@
-# Deep mutational scanning of SARS-CoV-2 Omicron BA.1 spike and mapping of escape variants for 268C.59A antibody
+# Deep mutational scanning of SARS-CoV-2 Omicron BA.1 spike and mapping of escape variants for C68.59 antibody
 
 Study by Bernadeta Dadonaite and Jesse Bloom.
 
-Measures functional effects of mutations and escape from antibody 268C.59A.
+Measures functional effects of mutations and escape from antibody C68.59.
 
 For documentation of the analysis, see [https://dms-vep.github.io/SARS-CoV-2_Omicron_BA.1_spike_DMS_268C.59A/](https://dms-vep.github.io/SARS-CoV-2_Omicron_BA.1_spike_DMS_268C.59A/).
 

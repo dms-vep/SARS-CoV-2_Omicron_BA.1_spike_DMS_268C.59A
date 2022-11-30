@@ -37,5 +37,5 @@ sera_default: &sera_default
 
 # define configuration for specific monoclonal antibodies, merging above defaults
 
-268C.59A:
+C68.59:
   <<: *mAb_default

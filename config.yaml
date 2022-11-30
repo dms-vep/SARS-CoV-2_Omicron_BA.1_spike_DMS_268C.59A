@@ -15,7 +15,7 @@ docs: docs
 github_repo: SARS-CoV-2_Omicron_BA.1_spike_DMS_268C.59A
 github_user: dms-vep
 github_branch: main  # main branch for repo, assume renamed from master -> main
-description: Deep mutational scanning of SARS-CoV-2 Omicron BA.1 spike and mapping of escape mutations for 268C.59A antibody
+description: Deep mutational scanning of SARS-CoV-2 Omicron BA.1 spike and mapping of escape mutations for C68.59 antibody
 year: 2022
 authors: Bernadeta Dadonaite and Jesse Bloom
 

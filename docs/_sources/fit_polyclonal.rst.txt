@@ -2,6 +2,6 @@
 Fit ``polyclonal`` models
 -------------------------
 
-- :doc:`Lib-2_2022-06-22_thaw-1_268C.59A_1 <fit_polyclonal_Lib-2_2022-06-22_thaw-1_268C.59A_1>`
-- :doc:`Lib-3_2022-06-22_thaw-1_268C.59A_1 <fit_polyclonal_Lib-3_2022-06-22_thaw-1_268C.59A_1>`
+- :doc:`Lib-2_2022-06-22_thaw-1_C68.59_1 <fit_polyclonal_Lib-2_2022-06-22_thaw-1_C68.59_1>`
+- :doc:`Lib-3_2022-06-22_thaw-1_C68.59_1 <fit_polyclonal_Lib-3_2022-06-22_thaw-1_C68.59_1>`
 
