@@ -12,7 +12,7 @@ docs: docs
 # ----------------------------------------------------------------------------
 # Details on repo, used for docs. Change this to details for your project.
 # ----------------------------------------------------------------------------
-github_repo: SARS-CoV-2_Omicron_BA.1_spike_DMS_268C.59A
+github_repo: SARS-CoV-2_Omicron_BA.1_spike_DMS_C68.59
 github_user: dms-vep
 github_branch: main  # main branch for repo, assume renamed from master -> main
 description: Deep mutational scanning of SARS-CoV-2 Omicron BA.1 spike and mapping of escape mutations for C68.59 antibody
